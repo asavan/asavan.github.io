@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --main-color: goldenrod;
+    --comp-color: red;
+    --player-color: royalblue;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+	justify-content: space-between; 
+}
+
+.app {
+  display: grid;
+  width: 100%;
+  grid-column-gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+
+.card{
+	position: relative;
+}
+
+h1, h2, h3 {
+	text-align: center;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.card a {
+	bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+blockquote {
+    font-style: italic;
+}
