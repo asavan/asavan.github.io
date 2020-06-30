@@ -1,7 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+
 
 :root {
     --main-color: goldenrod;
@@ -11,6 +8,8 @@
 
 html,
 body {
+	margin: 0;
+    padding: 0;
     height: 100%;
 }
 
@@ -26,7 +25,6 @@ body {
   grid-column-gap: 15px;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 }
-
 
 .card{
 	position: relative;
