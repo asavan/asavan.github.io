@@ -50,5 +50,17 @@
         "28:1C:08:6A:82:62:97:D2:5D:37:D8:33:42:FA:EC:91:9C:EA:81:63:04:27:0A:66:D2:63:B2:1B:7F:93:49:83"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fun.fifteenpuzzle.web15",
+      "sha256_cert_fingerprints": [
+        "97:C7:24:B7:86:BB:5F:64:02:23:61:62:ED:96:CB:39:CC:2F:31:89:41:EF:CF:85:20:A6:D0:00:50:FE:B4:D9"
+      ]
+    }
   }
 ]
