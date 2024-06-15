@@ -45,6 +45,26 @@
     ],
     "target": {
       "namespace": "android_app",
+      "package_name": "ru.asavan.drixit",
+      "sha256_cert_fingerprints": [
+        "F2:08:85:7A:66:90:A3:C8:90:68:0A:67:64:27:E2:D9:A4:B0:4A:C3:1E:F5:EA:AC:0C:01:14:C7:82:C8:D2:F1"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {"namespace": "android_app", "package_name": "ru.asavan.sosgame",
+      "sha256_cert_fingerprints": [
+        "EC:38:84:9A:D2:76:FA:A8:CB:7C:25:0A:AD:C4:EF:1C:C6:33:5B:18:DF:3C:BF:E5:3A:39:12:83:3C:BB:B1:FA"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
       "package_name": "ru.asavan.localtext",
       "sha256_cert_fingerprints": [
         "28:1C:08:6A:82:62:97:D2:5D:37:D8:33:42:FA:EC:91:9C:EA:81:63:04:27:0A:66:D2:63:B2:1B:7F:93:49:83"
