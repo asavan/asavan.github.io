@@ -72,6 +72,14 @@
     }
   },
   {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "ru.asavan.mastermind",
+      "sha256_cert_fingerprints": [
+        "FA:1E:23:5C:08:78:C3:01:20:97:0B:7A:FC:0A:08:1F:EE:B6:54:28:11:49:FB:46:52:CC:CC:E5:00:6F:0B:F4"
+      ]
+    }
+  },
+  {
     "relation": [
       "delegate_permission/common.handle_all_urls"
     ],
