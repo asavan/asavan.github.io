@@ -35,7 +35,8 @@
       "namespace": "android_app",
       "package_name": "ru.asavan.suno",
       "sha256_cert_fingerprints": [
-        "EA:A4:A8:A4:DF:4B:6B:E4:D8:0B:3C:AF:E8:80:9B:93:E1:A8:6C:EE:22:35:C9:FD:8D:09:46:B2:28:3F:1A:73"
+        "EA:A4:A8:A4:DF:4B:6B:E4:D8:0B:3C:AF:E8:80:9B:93:E1:A8:6C:EE:22:35:C9:FD:8D:09:46:B2:28:3F:1A:73",
+        "42:58:AF:E3:C6:F8:F3:01:E7:33:84:A5:F7:4A:35:C9:34:14:3C:2B:67:B6:5A:5C:6E:A4:4E:BC:5C:73:B4:4D"
       ]
     }
   },
@@ -47,7 +48,8 @@
       "namespace": "android_app",
       "package_name": "ru.asavan.drixit",
       "sha256_cert_fingerprints": [
-        "F2:08:85:7A:66:90:A3:C8:90:68:0A:67:64:27:E2:D9:A4:B0:4A:C3:1E:F5:EA:AC:0C:01:14:C7:82:C8:D2:F1"
+        "F2:08:85:7A:66:90:A3:C8:90:68:0A:67:64:27:E2:D9:A4:B0:4A:C3:1E:F5:EA:AC:0C:01:14:C7:82:C8:D2:F1",
+        "42:58:AF:E3:C6:F8:F3:01:E7:33:84:A5:F7:4A:35:C9:34:14:3C:2B:67:B6:5A:5C:6E:A4:4E:BC:5C:73:B4:4D"
       ]
     }
   },
@@ -59,7 +61,8 @@
       "namespace": "android_app",
       "package_name": "ru.asavan.moonstone",
       "sha256_cert_fingerprints": [
-        "EF:37:67:31:A1:44:BB:01:C6:E4:81:38:1A:2B:C3:86:BF:E2:54:F4:31:36:C9:28:20:B0:87:FA:45:EF:71:96"
+        "EF:37:67:31:A1:44:BB:01:C6:E4:81:38:1A:2B:C3:86:BF:E2:54:F4:31:36:C9:28:20:B0:87:FA:45:EF:71:96",
+        "42:58:AF:E3:C6:F8:F3:01:E7:33:84:A5:F7:4A:35:C9:34:14:3C:2B:67:B6:5A:5C:6E:A4:4E:BC:5C:73:B4:4D"
       ]
     }
   },
@@ -67,7 +70,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {"namespace": "android_app", "package_name": "ru.asavan.sosgame",
       "sha256_cert_fingerprints": [
-        "EC:38:84:9A:D2:76:FA:A8:CB:7C:25:0A:AD:C4:EF:1C:C6:33:5B:18:DF:3C:BF:E5:3A:39:12:83:3C:BB:B1:FA"
+        "EC:38:84:9A:D2:76:FA:A8:CB:7C:25:0A:AD:C4:EF:1C:C6:33:5B:18:DF:3C:BF:E5:3A:39:12:83:3C:BB:B1:FA",
+        "42:58:AF:E3:C6:F8:F3:01:E7:33:84:A5:F7:4A:35:C9:34:14:3C:2B:67:B6:5A:5C:6E:A4:4E:BC:5C:73:B4:4D"
       ]
     }
   },
@@ -75,7 +79,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target" : { "namespace": "android_app", "package_name": "ru.asavan.mastermind",
       "sha256_cert_fingerprints": [
-        "FA:1E:23:5C:08:78:C3:01:20:97:0B:7A:FC:0A:08:1F:EE:B6:54:28:11:49:FB:46:52:CC:CC:E5:00:6F:0B:F4"
+        "FA:1E:23:5C:08:78:C3:01:20:97:0B:7A:FC:0A:08:1F:EE:B6:54:28:11:49:FB:46:52:CC:CC:E5:00:6F:0B:F4",
+        "42:58:AF:E3:C6:F8:F3:01:E7:33:84:A5:F7:4A:35:C9:34:14:3C:2B:67:B6:5A:5C:6E:A4:4E:BC:5C:73:B4:4D"
       ]
     }
   },
@@ -87,7 +92,8 @@
       "namespace": "android_app",
       "package_name": "ru.asavan.localtext",
       "sha256_cert_fingerprints": [
-        "28:1C:08:6A:82:62:97:D2:5D:37:D8:33:42:FA:EC:91:9C:EA:81:63:04:27:0A:66:D2:63:B2:1B:7F:93:49:83"
+        "28:1C:08:6A:82:62:97:D2:5D:37:D8:33:42:FA:EC:91:9C:EA:81:63:04:27:0A:66:D2:63:B2:1B:7F:93:49:83",
+        "42:58:AF:E3:C6:F8:F3:01:E7:33:84:A5:F7:4A:35:C9:34:14:3C:2B:67:B6:5A:5C:6E:A4:4E:BC:5C:73:B4:4D"
       ]
     }
   },
@@ -99,7 +105,8 @@
       "namespace": "android_app",
       "package_name": "fun.fifteenpuzzle.web15",
       "sha256_cert_fingerprints": [
-        "97:C7:24:B7:86:BB:5F:64:02:23:61:62:ED:96:CB:39:CC:2F:31:89:41:EF:CF:85:20:A6:D0:00:50:FE:B4:D9"
+        "97:C7:24:B7:86:BB:5F:64:02:23:61:62:ED:96:CB:39:CC:2F:31:89:41:EF:CF:85:20:A6:D0:00:50:FE:B4:D9",
+        "42:58:AF:E3:C6:F8:F3:01:E7:33:84:A5:F7:4A:35:C9:34:14:3C:2B:67:B6:5A:5C:6E:A4:4E:BC:5C:73:B4:4D"
       ]
     }
   }
