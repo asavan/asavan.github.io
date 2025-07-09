@@ -36,6 +36,7 @@ footer {
     .app {
         grid-gap: clamp(1px, 5%,5px);
         grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+        padding: 5px 0;
     }
 }
 
