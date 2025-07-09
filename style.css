@@ -1,6 +1,6 @@
 html,
 body {
-	margin: 0;
+    margin: 0;
     padding: 0;
     height: 100%;
 }
@@ -12,8 +12,8 @@ body {
 body {
     display: flex;
     flex-direction: column;
-	justify-content: space-between;
-	font-family: Helvetica, sans-serif;
+    justify-content: space-between;
+    font-family: Helvetica, sans-serif;
 }
 
 .exhibition {
@@ -28,26 +28,26 @@ footer {
     display: grid;
     width: 100%;
     grid-gap: 50px 10px;
-    grid-template-columns: repeat(9, 1fr);
+    grid-template-columns: repeat(10, 1fr);
     padding: 5px;
 }
 
 @media (max-width: 1024px) {
     .app {
-        grid-gap: 5px;
-        grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+        grid-gap: clamp(1px, 5%,5px);
+        grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
     }
 }
 
 .card {
-	position: relative;
-	max-height: 250px;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-	align-items: center;
-	gap: 12px;
-	font-size: min(3vmin, 20px);
+    position: relative;
+    max-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    font-size: min(3vmin, 20px);
 }
 
 h2 {
@@ -61,22 +61,21 @@ h3 {
 }
 
 
-
 h1, h2, h3 {
-	text-align: center;
-	min-height: 0;
-	min-width: 0;
+    text-align: center;
+    min-height: 0;
+    min-width: 0;
 }
 
 img {
-  display: block;
-  max-width: 100%;
-  max-height: 150px;
-  min-height: 0;
+    display: block;
+    max-width: 100%;
+    max-height: 150px;
+    min-height: 0;
 }
 
 .card a {
-	bottom: 0;
+    bottom: 0;
     left: 0;
     position: absolute;
     right: 0;
